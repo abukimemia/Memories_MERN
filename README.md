@@ -24,7 +24,6 @@ Using React, Node.js, Express & MongoDB to build a Full Stack MERN Application.\
 ⚡️ One Page Layout\
 ⚡️ Styled with [Material Design](https://material.io/design)\
 ⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
 ⚡️ Implements authentication using OAuth Google login, Email login, JWT\
 ⚡️ Well organized documentation
 
@@ -47,3 +46,20 @@ $ git remote remove origin
 # Install dependencies
 $ npm install && npm start --for both client and server side to start the app.
 ```
+
+## Technologies used 🛠️
+
+- [React](https://reactjs.org/) - Frontend JavaScript library
+- [Node.jS](https://nodejs.org/api/documentation.html) - Backend library
+- [Material Design](https://material.io/design) - UI Design & Styling library
+- [MongoDB](https://www.mongodb.com/) - Database Platform
+- [Express.js](https://expressjs.com/en/5x/api.html) - Web framework for Node.js
+
+
+## Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ca5bc49c-70ae-4c2b-9628-909f81ed5700/deploy-status)](https://app.netlify.com/sites/memories-ftend/deploys)
+
+## Acknowledgments 🎁
+
+I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [JavaScript Mastery](https://github.com/adrianhajdin) who provided the learning materials and great resources to develop this project.
